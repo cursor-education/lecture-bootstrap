@@ -1,0 +1,95 @@
+# Bootstrap
+
+![](https://academy.zenva.com/wp-content/uploads/2014/08/Bootstrap-3.jpg)
+
+# Agenda
+
+- What is it?
+  - is a front-end framework
+  - open-source
+  - initially released by Twitter's developers
+  - responsive, mobile-first apps
+  - is a pack for ready-to-use web elements
+    - image, navbar, label, progress bar, alert, etc
+  - lanched in August 2012
+- Elements Examples
+- Website Examples
+- Why?
+ - saves 100+ hours of coding
+ - easy to use & start
+ - quick responsive prototype
+ - great documentation
+- What's included?
+ - bootstrap.css
+ - bootstrap.js
+ - icon fonts (glyphicons)
+ - Customize
+  - less
+- How to start
+ - bootstrap cdn
+ - playground
+- Elements
+ - typography and links
+  - heading
+  - body copy
+  - emphasis (small, strong, em)
+  - abbreviations
+  - addresses
+  - blockquotes
+  - lists
+ - normalize
+ - grid system
+   - 12 responsive grid (4 grids x 3 columns)
+   - 4 sizes
+    - xs, sm, mm, lg
+    - grid example (contact form)
+ - row
+ - responsive grid
+ - code
+  - inline
+  - basic block
+ - tables
+  - basic
+  - stripped
+  - bordered
+  - hover rows
+  - condensed tables
+  - contextual classes
+  - responsive tables
+ - forms
+  - basic form
+  - inline form
+  - horizontal form
+  - supported form
+  - static control
+  - control states
+  - control sizing
+  - help text
+ - buttons
+  - options
+  - sizes
+  - disabled state
+  - button tags
+ - images
+  - rouded, circle, thumbnail
+  - responsive
+ - help classes
+  - close icon
+  - float left/right
+  - clearfix
+  - screen readers only
+ - responsive utilities
+  - reponsive classes
+  - print classes
+  - test cases (visible/hidden on, ..)
+- Components
+ - reusable components
+ - badges, navs, labels, pagination, panels, etc
+- Javascript
+ - Transitions
+ - Modal
+ - Tab
+ - Alert
+ - Carousel
+ - etc
+- 

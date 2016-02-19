@@ -1,8 +1,8 @@
-# Bootstrap
+# Bootstrap3
 
 ![](https://academy.zenva.com/wp-content/uploads/2014/08/Bootstrap-3.jpg)
 
-# Agenda
+## Agenda
 
 - What is it?
   - is a front-end framework
@@ -92,4 +92,8 @@
  - Alert
  - Carousel
  - etc
-- 
+- Bootstrap4
+ - sass
+ - row > line
+ - flexbox
+ - cards
